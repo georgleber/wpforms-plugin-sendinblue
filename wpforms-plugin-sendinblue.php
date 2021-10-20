@@ -3,7 +3,7 @@
  * Plugin Name: SendinBlue plugin for WPForms
  * Plugin URI:  https://github.com/GeorgHenkel/wpforms-plugin-sendinblue
  * Description: Connect WPForms with SendinBlue API
- * Version:     1.0.0
+ * Version:     1.0.2
  * Author:      Georg Leber
  * Author URI:  https://www.georg-leber.de
  * Text Domain: wpforms-plugin-sendinblue
