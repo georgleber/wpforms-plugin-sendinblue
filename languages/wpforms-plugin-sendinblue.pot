@@ -1,0 +1,68 @@
+# Copyright (C) 2021 SendinBlue plugin for WPForms
+# This file is distributed under the same license as the SendinBlue plugin for WPForms package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SendinBlue plugin for WPForms 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpforms-plugin-sendinblue\n"
+"POT-Creation-Date: 2012-10-19 21:07:58+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: class-wpforms-plugin-sendinblue.php:30
+#: class-wpforms-plugin-sendinblue.php:41
+msgid "SendinBlue"
+msgstr ""
+
+#: class-wpforms-plugin-sendinblue.php:46
+msgid "Don't have an account?"
+msgstr ""
+
+#: class-wpforms-plugin-sendinblue.php:47
+msgid "Sign up now!"
+msgstr ""
+
+#: class-wpforms-plugin-sendinblue.php:56
+msgid "SendinBlue API Key"
+msgstr ""
+
+#: class-wpforms-plugin-sendinblue.php:64
+msgid "SendinBlue Form ID"
+msgstr ""
+
+#: class-wpforms-plugin-sendinblue.php:72
+msgid "Name"
+msgstr ""
+
+#: class-wpforms-plugin-sendinblue.php:75
+#: class-wpforms-plugin-sendinblue.php:87
+msgid "-- Select Field --"
+msgstr ""
+
+#: class-wpforms-plugin-sendinblue.php:84
+msgid "Email Address"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WPForms Plugin SendinBlue"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://github.com/GeorgHenkel/wpforms-plugin-sendinblue"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Connect WPForms with SendinBlue API"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Georg Leber"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.georg-leber.de"
+msgstr ""
