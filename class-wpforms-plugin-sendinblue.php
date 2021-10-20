@@ -40,13 +40,15 @@ class WPForms_Plugin_SendinBlue {
         echo '<div class="wpforms-panel-content-section wpforms-panel-content-section-be_sendinblue">';
         echo '<div class="wpforms-panel-content-section-title">' . __( 'SendinBlue', 'wpforms_plugin_sendinblue' ) . '</div>';
 
-        if( empty( $instance->form_data['settings']['be_convertkit_api'] ) ) {
+/*
+        if( empty( $instance->form_data['settings']['be_sendinblue_api'] ) ) {
             printf(
                 '<p>%s <a href="http://mbsy.co/convertkit/28981746" target="_blank" rel="noopener noreferrer">%s</a></p>',
-                __( 'Don\'t have an account?', 'integrate-convertkit-wpforms' ),
-                __( 'Sign up now!', 'integrate-convertkit-wpforms' )
+                __( 'Don\'t have an account?', 'wpforms_plugin_sendinblue' ),
+                __( 'Sign up now!', 'wpforms_plugin_sendinblue' )
             );
         }
+*/
 
         wpforms_panel_field(
             'text',
