@@ -1,8 +1,8 @@
-# Copyright (C) 2021 SendinBlue plugin for WPForms
+# Copyright (C) 2022 SendinBlue plugin for WPForms
 # This file is distributed under the same license as the SendinBlue plugin for WPForms package.
 msgid ""
 msgstr ""
-"Project-Id-Version: SendinBlue plugin for WPForms 1.0.1\n"
+"Project-Id-Version: SendinBlue plugin for WPForms 1.0.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpforms-plugin-sendinblue\n"
 "POT-Creation-Date: 2012-10-19 21:07:58+00:00\n"
 "MIME-Version: 1.0\n"
@@ -12,38 +12,52 @@ msgstr ""
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 
-#: class-wpforms-plugin-sendinblue.php:30
-#: class-wpforms-plugin-sendinblue.php:41
+#: class-wpforms-plugin-sendinblue.php:33
+#: class-wpforms-plugin-sendinblue.php:45
 msgid "SendinBlue"
 msgstr ""
 
-#: class-wpforms-plugin-sendinblue.php:46
-msgid "Don't have an account?"
-msgstr ""
-
-#: class-wpforms-plugin-sendinblue.php:47
-msgid "Sign up now!"
-msgstr ""
-
-#: class-wpforms-plugin-sendinblue.php:56
+#: class-wpforms-plugin-sendinblue.php:52
 msgid "SendinBlue API Key"
 msgstr ""
 
-#: class-wpforms-plugin-sendinblue.php:64
-msgid "SendinBlue Form ID"
+#: class-wpforms-plugin-sendinblue.php:59
+msgid "Sendinblue Redirect URL"
 msgstr ""
 
-#: class-wpforms-plugin-sendinblue.php:72
+#: class-wpforms-plugin-sendinblue.php:66
+msgid "Sendinblue List IDs"
+msgstr ""
+
+#: class-wpforms-plugin-sendinblue.php:73
+msgid "Sendinblue Template ID"
+msgstr ""
+
+#: class-wpforms-plugin-sendinblue.php:80
 msgid "Name"
 msgstr ""
 
-#: class-wpforms-plugin-sendinblue.php:75
-#: class-wpforms-plugin-sendinblue.php:87
-msgid "-- Select Field --"
+#: class-wpforms-plugin-sendinblue.php:91
+msgid "Email Address"
 msgstr ""
 
-#: class-wpforms-plugin-sendinblue.php:84
-msgid "Email Address"
+#: class-wpforms-plugin-sendinblue.php:102
+msgid "Organisation"
+msgstr ""
+
+#: class-wpforms-plugin-sendinblue.php:113
+msgid "Domain"
+msgstr ""
+
+#: class-wpforms-plugin-sendinblue.php:124
+msgid "Additional Boolean Attributes"
+msgstr ""
+
+#: class-wpforms-plugin-sendinblue.php:83
+#: class-wpforms-plugin-sendinblue.php:94
+#: class-wpforms-plugin-sendinblue.php:105
+#: class-wpforms-plugin-sendinblue.php:116
+msgid "-- Select Field --"
 msgstr ""
 
 #. Plugin Name of the plugin/theme
