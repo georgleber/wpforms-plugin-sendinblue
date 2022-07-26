@@ -172,7 +172,7 @@ class WPForms_Plugin_SendinBlue
 
         if ($additional_attributes) {
             foreach (explode(';', $additional_attributes) as $attrib) {
-                $attributes[$attrib] = 'yes';
+                $attributes[$attrib] = 'true';
             }
         }
 
